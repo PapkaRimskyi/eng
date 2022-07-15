@@ -1,12 +1,12 @@
 import React from 'react';
 
-import { Typography } from '@mui/material';
+import { Box, Typography } from '@mui/material';
 
 function App() {
   return (
-    <div>
-      <Typography variant={'h1'} textAlign={'center'}>Blank</Typography>
-    </div>
+    <Box>
+      <Typography variant={'h1'} textAlign={'center'}>EngLib</Typography>
+    </Box>
   );
 }
 
